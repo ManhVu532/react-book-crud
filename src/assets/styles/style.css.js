@@ -1,0 +1,1 @@
+export let style = { backgroundColor: "#333" };

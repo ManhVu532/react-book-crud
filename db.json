@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Sách 2222",
+      "author": "Tác giả mới 1",
+      "price": 156000,
+      "description": "Thêm mới"
+    },
+    {
+      "id": 3,
+      "name": "Tên sách",
+      "author": "aaaaa",
+      "price": 12000,
+      "description": "wer"
+    },
+    {
+      "id": 4,
+      "name": "fdsg",
+      "author": "sdgdfg",
+      "price": 1235000,
+      "description": "sdgdfgdf fghdf"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "email": "anv@gmail.com"
+    }
+  ]
+}
